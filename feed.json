@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "website",
+    "description": "",
+    "home_page_url": "https://sustainable-pace.github.io",
+    "feed_url": "https://sustainable-pace.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Carol"
+    },
+    "items": [
+        {
+            "id": "https://sustainable-pace.github.io/novidades-em-breve/",
+            "url": "https://sustainable-pace.github.io/novidades-em-breve/",
+            "title": "Novidades em breve...",
+            "author": {
+                "name": "Carol"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-10T23:47:37-03:00",
+            "date_modified": "2023-03-10T23:47:37-03:00"
+        }
+    ]
+}

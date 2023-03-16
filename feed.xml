@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>website</title>
+    <link href="https://sustainable-pace.github.io/feed.xml" rel="self" />
+    <link href="https://sustainable-pace.github.io" />
+    <updated>2023-03-10T23:47:37-03:00</updated>
+    <author>
+        <name>Carol</name>
+    </author>
+    <id>https://sustainable-pace.github.io</id>
+
+    <entry>
+        <title>Novidades em breve...</title>
+        <author>
+            <name>Carol</name>
+        </author>
+        <link href="https://sustainable-pace.github.io/novidades-em-breve/"/>
+        <id>https://sustainable-pace.github.io/novidades-em-breve/</id>
+
+        <updated>2023-03-10T23:47:37-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
