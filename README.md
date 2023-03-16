@@ -1,1 +1,1 @@
-# sustainable-pace.github.io
+# gh-pages
