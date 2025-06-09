@@ -3,23 +3,35 @@
     <title>Sustainable Pace</title>
     <link href="https://sustainable-pace.github.io/feed.xml" rel="self" />
     <link href="https://sustainable-pace.github.io" />
-    <updated>2023-03-17T21:59:31-03:00</updated>
+    <updated>2025-06-09T00:57:15-03:00</updated>
     <author>
         <name>Excluir</name>
     </author>
     <id>https://sustainable-pace.github.io</id>
 
     <entry>
-        <title>&quot;Ao se inscrever neste workshop você autoriza o uso da imagem em todo e qualquer material&quot;</title>
+        <title>texto teste</title>
         <author>
             <name>Excluir</name>
+        </author>
+        <link href="https://sustainable-pace.github.io/texto-teste/"/>
+        <id>https://sustainable-pace.github.io/texto-teste/</id>
+
+        <updated>2025-06-09T00:57:15-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>&quot;Ao se inscrever neste workshop você autoriza o uso da imagem em todo e qualquer material&quot;</title>
+        <author>
+            <name>Author</name>
         </author>
         <link href="https://sustainable-pace.github.io/ao-se-inscrever-neste-workshop-voce-autoriza-o-uso-da-imagem-em-todo-e-qualquer-material/"/>
         <id>https://sustainable-pace.github.io/ao-se-inscrever-neste-workshop-voce-autoriza-o-uso-da-imagem-em-todo-e-qualquer-material/</id>
         <media:content url="https://sustainable-pace.github.io/media/posts/3/management-3.0-uso-de-imagem.PNG" medium="image" />
             <category term="privacidade"/>
 
-        <updated>2023-03-17T21:59:31-03:00</updated>
+        <updated>2023-03-17T21:50:00-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sustainable-pace.github.io/media/posts/3/management-3.0-uso-de-imagem.PNG" alt="Ao se inscrever nesse treinamento você autoriza o uso da imagem em todo e qualquer material entre fotos, documentos e outros meios de comunicação, para ser utilizada em campanhas promocionais e institucional, destinadas à divulgação ao público em geral e/ou apenas para uso interno, desde que não haja desvirtuamento da sua finalidade" />
